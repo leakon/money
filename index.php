@@ -1,3 +1,3 @@
 <?php
 
-echo 'Money-4.0';
+echo 'Money-4.2';
