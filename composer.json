@@ -1,0 +1,13 @@
+{
+    "name": "leakon/money",
+    "description": "A Money Lib",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Likang Liu",
+            "email": "leakon@gmail.com"
+        }
+    ],
+    "require": {}
+}
